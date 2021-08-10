@@ -1,8 +1,6 @@
-# Hubble-Project
+# CloutContracts Node
 
-> Watch your assets move at light speed!
-
-The hubble project is a framework to create programmable rollups with mass migration capabilities.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a tellus nibh. Nunc felis risus, iaculis luctus pretium sit amet, laoreet ut libero. Aenean cursus gravida tortor eget placerat. Curabitur id lobortis leo. Aenean non ipsum feugiat, maximus erat vitae. 
 
 ## Build
 
@@ -50,8 +48,7 @@ $ make migration-up
 $ make migration-down
 ```
 
-## Start hubble
-
+## Start the node
 ```bash
 $ make start
 ```
