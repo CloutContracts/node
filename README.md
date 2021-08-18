@@ -2,6 +2,12 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a tellus nibh. Nunc felis risus, iaculis luctus pretium sit amet, laoreet ut libero. Aenean cursus gravida tortor eget placerat. Curabitur id lobortis leo. Aenean non ipsum feugiat, maximus erat vitae. 
 
+**To-do**:
+- Compile
+- Add Config
+- Reupload to GitHub
+- Then initialize make start
+
 ## Build
 
 ```bash
