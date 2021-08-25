@@ -1,6 +1,7 @@
 # CloutContracts Node
+*This is still actively under construction/being developed and mantained*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a tellus nibh. Nunc felis risus, iaculis luctus pretium sit amet, laoreet ut libero. Aenean cursus gravida tortor eget placerat. Curabitur id lobortis leo. Aenean non ipsum feugiat, maximus erat vitae. 
+[CloutContracts](https://cloutcontracts.net) is a next gen blockchain development platform targeting creators and social influencers looking to quickly deploy their own network, or even professional blockchain architects. We are interplorabile and multichain compatible. Not only this, but we are the native token behind a high speed rollup layer.
 
 **To-do**:
 - Compile
